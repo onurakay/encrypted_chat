@@ -4,9 +4,9 @@ A simple yet secure multi-client chat application using **Python, sockets, threa
 ---
 
 ## **Features**
-✔ **GUI-based chat client (Tkinter)**  
-✔ **RSA encryption for secure messages**  
-✔ **Admin role with `/kick` and `/ban` commands**  
-✔ **Private messaging (`/msg <user> <message>`)**  
-✔ **Prevents duplicate nicknames**  
-✔ **Banned users cannot reconnect**  
+* **GUI-based chat client (Tkinter)**  
+* **RSA encryption for secure messages**  
+* **Admin role with `/kick` and `/ban` commands**  
+* **Private messaging (`/msg <user> <message>`)**  
+* **Prevents duplicate nicknames**  
+* **Banned users cannot reconnect**  
